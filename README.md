@@ -1,0 +1,1 @@
+Projeto criado através do curso de introdução as tecnologias node, react, react-native ministrados pela empresa Rocketseat.
